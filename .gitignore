@@ -1,0 +1,17 @@
+# --- Editor & OS artifacts ---
+.DS_Store
+Thumbs.db
+
+# --- Temporary files ---
+*.swp
+*.tmp
+*.bak
+
+# --- Environment files ---
+.env
+.env.local
+
+# --- Documentation build outputs ---
+/site
+/build
+/dist
